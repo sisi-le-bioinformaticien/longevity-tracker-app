@@ -1,12 +1,6 @@
 # 🧬 Longevity Tracker App
 
-**A personal health optimization app built in Flutter**
-
-This project showcases an advanced longevity and health tracking application. The code is proprietary and not public. This repository provides an overview, screenshots, and feature descriptions.
-
----
-
-## 📱 Screenshots
+**An Advanced personal health optimization app built in Flutter**
 
 | Home & Overview | Biological Age | Dark Mode |
 |---|---|---|
@@ -22,7 +16,7 @@ This project showcases an advanced longevity and health tracking application. Th
 
 ---
 
-## ✨ Features
+## Features
 
 ✅ **60+ Biometrics** tracked over time  
 ✅ **Biological Age Estimation** (PhenoAge algorithm)  
@@ -38,7 +32,7 @@ This project showcases an advanced longevity and health tracking application. Th
 
 ---
 
-## 🛠 Technology Stack
+## Technology Stack
 
 - **Flutter** for cross-platform mobile development
 - **Scientifically accurate algorithms** for biological age estimation like phenoAge from Dr. Morgan Levine
