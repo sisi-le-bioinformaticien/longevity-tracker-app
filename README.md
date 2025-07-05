@@ -48,8 +48,8 @@
 If you’d like to learn more about this project or discuss collaboration:
 
 **Simon Penelle**  
-[simon@penelle.net]  
-[My LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/simon-penelle-aaa258210/))
+Email: [simon@penelle.net]
+Linkedin: [[https://www.linkedin.com](https://www.linkedin.com/in/simon-penelle-aaa258210/)]
 
 ---
 
