@@ -25,8 +25,8 @@
 ✅ **Organ Health Dashboard** (Cardio, Brain, Metabolic, etc.)  
 ✅ **Optimal, normal and Danger Zones** for each biomarker  
 ✅ **Notifications & Reminders**  
-✅ **Advanced Visualizations & Trends** 
-✅ **Built in Flutter**
+✅ **Advanced Visualizations & Trends**  
+✅ **Built in Flutter**  
 ✅ **Smartwatch Integration** *(coming soon)*  
 
 
