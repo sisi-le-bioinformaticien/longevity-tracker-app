@@ -1,6 +1,6 @@
 # 🧬 Longevity Tracker App
 
-**An Advanced personal health optimization app built in Flutter**
+**An advanced personal health optimization app built in Flutter**
 
 | Home & Overview | Biological Age | Dark Mode |
 |---|---|---|
@@ -35,21 +35,21 @@
 ## Technology Stack
 
 - **Flutter** for cross-platform mobile development
-- **Scientifically accurate algorithms** for biological age estimation like phenoAge from Dr. Morgan Levine
-- **JSON-based data storage** (local persistence)
+- **JSON-based data storage** (local persistence)  
+- **Scientifically accurate algorithms** for biological age estimation like phenoAge from Dr. Morgan Levine: https://pmc.ncbi.nlm.nih.gov/articles/PMC5940111/
 
 
 > **Note:** This repository does not contain source code. For demonstration only.
 
-
+---
 
 ## Contact Me
 
 If you’d like to learn more about this project or discuss collaboration:
 
 **Simon Penelle**  
-Email: [simon@penelle.net]
-Linkedin: [[https://www.linkedin.com](https://www.linkedin.com/in/simon-penelle-aaa258210/)]
+Email: simon@penelle.net   
+Linkedin: [LinkedIn](https://www.linkedin.com/in/simon-penelle-aaa258210/)
 
 ---
 
