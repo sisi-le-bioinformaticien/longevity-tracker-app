@@ -1,4 +1,4 @@
-# 🧬 Longevity Tracker App
+# Longevity Tracker App
 
 **An advanced personal health optimization app built in Flutter**
 
