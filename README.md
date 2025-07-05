@@ -4,15 +4,15 @@
 
 | Home & Overview | Biological Age | Dark Mode |
 |---|---|---|
-| ![Home](./media/home_page.JPG) | ![BioAge](./media/biological_age_estimation.JPG) | ![Dark](./media/dark_mode.JPG) |
+| ![Home](./Media/home_page.JPG) | ![BioAge](./Media/biological_age_estimation.JPG) | ![Dark](./Media/dark_mode.JPG) |
 
 | Metrics Entry | Explanations | Achievements |
 |---|---|---|
-| ![Enter Metric](./media/entrer_new_metric.JPG) | ![Explanation](./media/explanation_widget.JPG) | ![Achievements](./media/Achievements.JPG) |
+| ![Enter Metric](./Media/entrer_new_metric.JPG) | ![Explanation](./Media/explanation_widget.JPG) | ![Achievements](./Media/Achievements.JPG) |
 
 | Organs Overview | Notifications | Search Metric |
 |---|---|---|
-| ![Organs](./media/organ_heath_overview.JPG) | ![Notifications](./media/notifications.JPG) | ![Search](./media/search_metric.JPG) |
+| ![Organs](./Media/organ_heath_overview.JPG) | ![Notifications](./Media/notifications.JPG) | ![Search](./Media/search_metric.JPG) |
 
 ---
 
